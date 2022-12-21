@@ -1,0 +1,2 @@
+# send_message_in_two_packages
+启动roscore后，进入工作空间，source之后直接rosrun test_node send即可
